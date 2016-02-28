@@ -1,0 +1,33 @@
+_repo: Uarda-a-Romance-of-Ancient-Egypt-Volume-10_5448
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
+- !lcsh 'German fiction -- Translations into English'
+title: 'Uarda : a Romance of Ancient Egypt — Volume 10'
+url: http://www.gutenberg.org/ebooks/5448
