@@ -1,5 +1,5 @@
 _repo: Uarda-a-Romance-of-Ancient-Egypt-Volume-10_5448
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- To 332 B.C. -- Fiction'
 - !lcsh 'German fiction -- Translations into English'
+- GITenberg
 title: 'Uarda : a Romance of Ancient Egypt — Volume 10'
 url: http://www.gutenberg.org/ebooks/5448
